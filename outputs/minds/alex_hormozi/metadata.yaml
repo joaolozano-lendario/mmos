@@ -1,0 +1,56 @@
+# Alex Hormozi Mind - Metadata
+
+version: "1.0.0"
+created: "2025-11-29"
+type: "mmos-lite"
+status: "ready"
+
+mind:
+  id: "alex_hormozi"
+  name: "Alex Hormozi"
+  slug: "alex_hormozi"
+  display_name: "Alex Hormozi"
+
+factory_integration:
+  purpose: "Offer architecture and value articulation"
+
+  consulted_by:
+    - agent: "@strategist"
+      for: "Offer structure and value equation"
+      when: "discovery phase"
+
+    - agent: "@copywriter"
+      for: "CTAs, guarantees, and value stacking"
+      when: "craft phase"
+
+    - agent: "@orchestrator"
+      for: "Lead magnet strategy"
+      when: "conception phase"
+
+  key_framework: "Value Equation + Grand Slam Offer"
+
+quick_reference:
+  primary_principle: "Make offers so good people feel stupid saying no"
+
+  value_equation: |
+    VALUE = (Dream Outcome × Perceived Likelihood)
+            ÷ (Time Delay × Effort/Sacrifice)
+
+  grand_slam_components:
+    - "Dream outcome in their words"
+    - "Proof that maximizes perceived likelihood"
+    - "Quick wins to minimize time delay"
+    - "Done-for-you to minimize effort"
+    - "Bonuses that stack value"
+    - "Scarcity that creates urgency"
+    - "Guarantee that reverses all risk"
+
+  copy_rules:
+    - "Lead with transformation, not mechanism"
+    - "Specific beats vague (always)"
+    - "Claims require proof"
+    - "Take on more risk than the customer"
+
+usage:
+  times_consulted: 0
+  last_consulted: null

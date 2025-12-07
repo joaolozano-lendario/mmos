@@ -1,0 +1,46 @@
+# Eugene Schwartz Mind - Metadata
+
+version: "1.0.0"
+created: "2025-11-29"
+type: "mmos-lite"
+status: "ready"
+
+mind:
+  id: "eugene_schwartz"
+  name: "Eugene Schwartz"
+  slug: "eugene_schwartz"
+  display_name: "Eugene Schwartz"
+
+factory_integration:
+  purpose: "Breakthrough headlines and awareness-based copy"
+
+  consulted_by:
+    - agent: "@copywriter"
+      for: "Headlines and awareness level strategy"
+      when: "craft phase"
+
+    - agent: "@strategist"
+      for: "Audience awareness assessment"
+      when: "discovery phase"
+
+  key_framework: "Five Levels of Awareness"
+
+quick_reference:
+  primary_principle: "The headline is 80% of the advertisement"
+
+  awareness_levels:
+    - "Unaware → Story/curiosity lead"
+    - "Problem Aware → Problem-focused"
+    - "Solution Aware → Benefit-focused"
+    - "Product Aware → Proof-focused"
+    - "Most Aware → Offer-focused"
+
+  headline_rules:
+    - "Specific beats general (46 years, not decades)"
+    - "One idea per headline"
+    - "Benefit first, feature second"
+    - "Clarity over cleverness"
+
+usage:
+  times_consulted: 0
+  last_consulted: null
